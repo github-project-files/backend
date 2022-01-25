@@ -11,7 +11,13 @@
     "title": {
       "type": "string"
     },
-    "emailPlaceholder": {
+    "name": {
+      "type": "string"
+    },"email": {
+      "type": "string"
+    },"subject": {
+      "type": "string"
+    },"message": {
       "type": "string"
     },
     "submitButton": {
